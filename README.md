@@ -23,8 +23,6 @@ Este es un proyecto simple de una aplicación web que verifica si una palabra o 
 4. Presiona el botón **"Check"**.
 5. Verás un mensaje indicando si la entrada es o no un palíndromo.
 
-## Captura de pantalla
-![Vista previa del proyecto](screenshot.png)
 
 ## Inspiración
 Este proyecto está inspirado en los retos de **freeCodeCamp**.
